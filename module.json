@@ -1,0 +1,12 @@
+{
+	"name": "Kanban",
+	"router": "index.js",
+	"crud": [{
+		"name": "column",
+		"update": {
+			"keys": ["name"]
+		},
+		"delete": [""]
+	}],
+	"dependencies": {}
+}
